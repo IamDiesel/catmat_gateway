@@ -143,3 +143,6 @@ Der ESP32 hat nur **ein** 2,4-GHz-Funkteil für WLAN und Bluetooth. Bei Konflikt
 |---|---|
 | schnelles Blinken | Verbindungsaufbau zur Matte |
 | dauerhaft an, flackert bei Daten | Matte streamt |
+
+## Altes Projekt
+Vorgänger siehe: https://github.com/IamDiesel/CatMat
